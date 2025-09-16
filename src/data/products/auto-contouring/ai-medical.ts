@@ -11,7 +11,7 @@ export const AI_MEDICAL_PRODUCTS: ProductDetails[] = [
     githubUrl: "https://github.com/DLinRT-eu/website/tree/main/src/data/products/auto-contouring/ai-medical.ts",
     description: "Long-terms lesion tracking and reporting.",
     category: "Auto-Contouring",
-    certification: "CE",
+    certification: "CE, FDA",
     logoUrl: "/logos/ai-medical.png",
     website: "https://www.ai-medical.ch/jazz",
     anatomicalLocation: ["Brain"],
@@ -48,10 +48,10 @@ export const AI_MEDICAL_PRODUCTS: ProductDetails[] = [
         regulation: "MDR 2017/745"
       },
       fda: {
-        status: "Under review",
+        status: "Cleared",
         type: "510(k)"
       },
-      intendedUseStatement: "For assistance in the delineation of organs at risk and target volumes in radiation therapy planning."
+      intendedUseStatement: "For long-term volumetric lesion quantification."
     },
     market: {
       onMarketSince: "2020",
@@ -65,7 +65,7 @@ export const AI_MEDICAL_PRODUCTS: ProductDetails[] = [
     releaseDate: "2023-05-15",
     lastUpdated: "2024-04-29",
     clinicalEvidence: "Publication in Medical Physics Journal 2023, ESTRO 2022 abstract",
-    lastRevised: "2025-09-01",
+    lastRevised: "2025-09-15",
     source: "Automatically retrieved and revised"
   }
 ];
