@@ -128,8 +128,8 @@ export const CARINA_PRODUCTS: ProductDetails[] = [
 "Female Pelvis: Uterus",
 "Female Pelvis: Rectum"
     ],
-    lastRevised: "2025-09-01",
+    lastRevised: "2025-09-15",
     source: "automatically retrieved and revised",
-    clinicalEvidence: "Publication in Medical Physics Journal 2023, ESTRO 2022 abstract"
+    clinicalEvidence: "Publication in Journal of Medical Imaging 2019-2020, Physics in Medicine & Biology 2020, Journal of Applied Clininical Medical Physics 2020, Medical Physics Journal 2022-2023, Practical Radiation Oncology 2023, Advances in Radiation Oncology 2024,  ESTRO 2022 abstract"
   }
 ];
