@@ -336,7 +336,7 @@ export const ONCOSOFT_PRODUCTS: ProductDetails[] = [
   version: "2024",
   releaseDate: "2024-01-01",
   lastUpdated: "2025-07-14",
-  lastRevised: "2025-09-01",
-  clinicalEvidence: "Proven in clinical practice with over 4M contours processed for 80K+ patients since 2022"
+  lastRevised: "2025-09-15",
+  clinicalEvidence: "Published in PMP, Frontiers in Oncology, Cancers, Nature Communications, International Journal of Sugery, Medical Image Analysis"
 }
 ];
