@@ -11,7 +11,7 @@ export const WISDOM_TECH_PRODUCTS: ProductDetails[] = [
     githubUrl: "https://github.com/DLinRT-eu/website/tree/main/src/data/products/auto-contouring/wisdom-tech.ts",
     description: "AI solution for automatic contour segmentation in radiation therapy planning.",
     category: "Auto-Contouring",
-    certification: "NMPA",
+    certification: ["NMPA", "FDA"],
     logoUrl: "/logos/wisdom-tech.png",
     website: "http://www.wisdom-tech.online/view-16.html",
     anatomicalLocation: ["Brain","Head & Neck", "Thorax", "Abdomen", "Pelvis"],
@@ -115,7 +115,7 @@ export const WISDOM_TECH_PRODUCTS: ProductDetails[] = [
       ce: {
         status: "Not available"
       },
-      fda: "Not available",
+      fda: "Available",
       intendedUseStatement: "For automatic segmentation of organs at risk in radiation therapy planning."
     },
     market: {
@@ -132,7 +132,7 @@ export const WISDOM_TECH_PRODUCTS: ProductDetails[] = [
     version: "2.0",
     releaseDate: "2023-04-10",
     lastUpdated: "2023-12-15",
-    lastRevised: "2025-09-01",
+    lastRevised: "2025-09-15",
     source: "Automatically retrieved"
   }
 ];
